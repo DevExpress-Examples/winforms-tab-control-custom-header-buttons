@@ -17,7 +17,7 @@ Namespace XtraTabControl_CustomButtons
             InitializeComponent()
             xtraTabControl1.CustomHeaderButtons(0).ToolTip = "Add Image..."
             xtraTabControl1.CustomHeaderButtons(1).ToolTip = "Remove Image"
-            AddImage("Start Page", ResourceImageHelper.CreateImageFromResources("XtraTabControl_CustomButtons.08.jpg", GetType(Form1).Assembly))
+            AddImage("Start Page", ResourceImageHelperCore.CreateImageFromResources("XtraTabControl_CustomButtons.08.jpg", GetType(Form1).Assembly))
             xtraTabControl1.TabPages(0).ShowCloseButton = DefaultBoolean.False
         End Sub
 
