@@ -12,7 +12,7 @@ This example shows how to display [custom buttons](https://docs.devexpress.com/W
 * `+` - Loads the specified image and displays it within a new tab.
 * `-` - Closes the active tab.
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-add-custom-buttons-to-xtratabcontrols-header-region-e3116/13.1.4%2B/media/winforms-tab-control-with-custom-buttons.png)
+![WinForms TabControl - Display custom header buttons](media/winforms-tab-control-with-custom-buttons.png)
 
 
 ## Files to Review
@@ -30,3 +30,4 @@ This example shows how to display [custom buttons](https://docs.devexpress.com/W
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
