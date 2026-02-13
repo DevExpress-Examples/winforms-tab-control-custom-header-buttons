@@ -24,7 +24,7 @@ This example shows how to display [custom buttons](https://docs.devexpress.com/W
 
 * [XtraTabControl.CustomHeaderButtons](https://docs.devexpress.com/WindowsForms/DevExpress.XtraTab.XtraTabControl.CustomHeaderButtons)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tab-control-custom-header-buttons&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tab-control-custom-header-buttons&~~~was_helpful=no)
 
